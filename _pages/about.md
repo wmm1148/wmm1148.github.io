@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-曼曼です！
+位曼曼です！
 
 A data-driven personal website
 ======
